@@ -9,4 +9,4 @@
 1. Increase test accuracy --> improve model
 2. Data processing: `convert_to_categorical`
 3. Create a passenger who would likely survive or die on Titanic
-    a. Maybe, based on user characteristics, predict if user would survive the titanic
+4. Maybe, based on user characteristics, predict if user would survive the titanic
