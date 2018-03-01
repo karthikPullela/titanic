@@ -6,5 +6,7 @@
 
  TODO:
  -------
- 1. Fix `x_test` reading of values
- 2. Data processing: `convert_to_categorical`
+1. Increase test accuracy --> improve model
+2. Data processing: `convert_to_categorical`
+3. Create a passenger who would likely survive or die on Titanic
+    a. Maybe, based on user characteristics, predict if user would survive the titanic
